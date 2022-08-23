@@ -10,8 +10,8 @@ Uma aplicação web que simula uma hamburgueria, onde é possível adicionar e r
 ## Conceitos estudados
 
 - Styled-components;
-- API;
-- React.
+- React;
+- Requisição na API.
 
 ## Como acessar
 
