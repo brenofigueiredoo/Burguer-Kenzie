@@ -11,7 +11,7 @@ Uma aplicação web que simula uma hamburgueria, onde é possível adicionar e r
 
 - Styled-components;
 - API;
-- Typescript com react.
+- React.
 
 ## Como acessar
 
