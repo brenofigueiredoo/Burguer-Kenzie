@@ -1,17 +1,18 @@
 ## Hamburgueria Kenzie
 
-Uma aplicação web que simula uma hamburgueria, onde é possível adicionar e remover produto ao carrinho, buscar item desejado no campo de pesquisa...
+Burguer Kenzie simula um e-commerce de uma lanchonete, sendo possível adicionar/remover itens no carrinho e filtrar os itens tanto por nome e categoria.
 
 ## Aplicações
 - [X] Listar todos os produtos recebidos pela API;
-- [X] Adicionar e remover produto do carrinho de compras;
-- [X] Buscar protudo pelo campo de pesquisa;
+- [X] Adição e remoção de produtos no carrinho;
+- [X] Mobile First;
+- [X] Filtro tanto por nome e categoria.
 
 ## Conceitos estudados
 
 - Styled-components;
 - React;
-- Requisição na API.
+- API Rest.
 
 ## Como acessar
 
