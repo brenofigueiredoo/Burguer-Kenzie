@@ -1,6 +1,6 @@
 ## Hamburgueria Kenzie
 
-Burguer Kenzie simula um e-commerce de uma lanchonete, sendo possível adicionar/remover itens no carrinho e filtrar os itens tanto por nome e categoria.
+Hamburgueria Kenzie simula um e-commerce de uma lanchonete, sendo possível adicionar/remover itens no carrinho e filtrar os itens tanto por nome e categoria.
 
 ## Aplicações
 - [X] Listar todos os produtos recebidos pela API;
