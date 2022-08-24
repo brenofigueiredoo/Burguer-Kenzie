@@ -11,7 +11,9 @@ Hamburgueria Kenzie simula um e-commerce de uma lanchonete, sendo possível adic
 ## Conceitos estudados
 
 - Styled-components;
-- React;
+- React Toastify;
+- Axios;
+- Typescript com React;
 - API Rest.
 
 ## Como acessar
@@ -19,5 +21,5 @@ Hamburgueria Kenzie simula um e-commerce de uma lanchonete, sendo possível adic
 #### Entre no link abaixo
 
 ```
-https://react-entrega-s1-hamburgueria-da-ke-git-a5add8-brenofigueiredoo.vercel.app/
+https://hamburgueria-kenzie-pearl.vercel.app/
 ```
