@@ -3,22 +3,8 @@ import { ContextMain } from "../../Context/context";
 import { Container, ContainerTotalPrice, DivCartVazio } from "./style";
 
 export default function Cart() {
-  const { currentSale, setCurrentSale } = useContext(ContextMain);
-
-  const totalPrice = currentSale.reduce(
-    (acc, currentValue) => currentValue.price + acc,
-    0
-  );
-
-  function removeToCart(idProduct) {
-    const productRemoved = currentSale.splice(idProduct, 1);
-    setCurrentSale([...currentSale], productRemoved);
-  }
-
-  function removeAll() {
-    const removedAllProducts = currentSale.splice(0, currentSale.length);
-    setCurrentSale([...currentSale], removedAllProducts);
-  }
+  const { totalPrice, removeToCart, currentSale, removeAll } =
+    useContext(ContextMain);
 
   return (
     <>
