@@ -21,5 +21,5 @@ Hamburgueria Kenzie simula um e-commerce de uma lanchonete, sendo possível adic
 #### Entre no link abaixo
 
 ```
-https://hamburgueria-kenzie-pearl.vercel.app/
+hamburgueria-kenzie-pearl.vercel.app
 ```
