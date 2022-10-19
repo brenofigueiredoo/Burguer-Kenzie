@@ -10,11 +10,11 @@ Hamburgueria Kenzie simula um e-commerce de uma lanchonete, sendo possível adic
 
 ## Conceitos estudados
 
-- Styled-components;
-- React Toastify;
-- Axios;
-- Typescript com React;
-- API Rest.
+- Styled-components
+- React Toastify
+- Axios
+- Typescript com React
+- API Rest
 - Context
 
 ## Como acessar
