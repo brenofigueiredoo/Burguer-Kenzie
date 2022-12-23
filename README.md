@@ -1,4 +1,4 @@
-## Hamburgueria Kenzie
+## Burguer Kenzie
 
 Hamburgueria Kenzie simula um e-commerce de uma lanchonete, sendo possível adicionar/remover itens no carrinho e filtrar os itens tanto por nome e categoria.
 
